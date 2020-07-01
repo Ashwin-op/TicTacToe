@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 // Import Storage object
-import {Storage} from './../storage/storage';
+import {Storage} from '../storage/storage';
 
 // Create Scoreboard component
 export class Scoreboard extends React.Component {

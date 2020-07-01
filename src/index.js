@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import {BrowserRouter} from 'react-router-dom';
 import {Route} from 'react-router';
-
 // Import Board and Scoreboard views
 import {Board} from './components/board';
 import {Scoreboard} from './components/scoreboard';

@@ -1,14 +1,11 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-
 // Import Storage object
-import {Storage} from './../storage/storage'
-
+import {Storage} from '../storage/storage';
 // Import Box component
-import {Box} from './board-box'
-
+import {Box} from './board-box';
 // Import utility functions
-import * as utils from '../utils/functions'
+import * as utils from '../utils/functions';
 
 // Create Board component
 export class Board extends React.Component {
